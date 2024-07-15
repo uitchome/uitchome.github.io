@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://uitchome.github.io/sitemap.html.gz
+Sitemap: https://uitchome.github.io/app/sitemap.html.gz
+Sitemap: https://uitchome.github.io/assets/sitemap.html.gz
+Sitemap: https://uitchome.github.io/css/sitemap.html.gz
+Sitemap: https://uitchome.github.io/includes/sitemap.html.gz
+Sitemap: https://uitchome.github.io/item/sitemap.html.gz
+Sitemap: https://uitchome.github.io/src/sitemap.html.gz
